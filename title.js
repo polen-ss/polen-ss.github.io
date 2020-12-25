@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = [ "c", "co", "col", "cold", "colds", "coldse", "coldsen", "coldsens", "coldsense", "coldsens", "coldsen", "coldse", "colds", "cold", "col", "co", "c"];
+var titleText = [ "i", "is", "isk", "iskan", "iskand", "iskande", "iskander", "Iskander", "iskander", "iskande", "iskand", "iskan", "iska", "isk", "is", "s", "прыщ"];
 
 function loop() {
 
